@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(94, 94, 94);
 }
 
 .card {
@@ -9,6 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    border-radius: 10px;
 }
 
 .top {
